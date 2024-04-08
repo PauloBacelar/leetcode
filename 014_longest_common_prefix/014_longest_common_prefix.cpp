@@ -1,3 +1,6 @@
+// By @PauloBacelar
+// Problem: leetcode.com/problems/longest-common-prefix
+
 #include <string>
 #include <vector>
 
